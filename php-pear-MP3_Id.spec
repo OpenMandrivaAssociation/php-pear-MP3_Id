@@ -8,7 +8,7 @@ Release:	2
 Summary:	Read/write MP3-Tags
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/MP3_Id/
+URL:		https://pear.php.net/package/MP3_Id/
 Source0:	http://download.pear.php.net/package/MP3_Id-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
